@@ -1,0 +1,5 @@
+Node js is fast and scalable 
+Node js is Asynchronus and non-blocking 
+Very popular language for server-sode application development 
+Light Weight and Efficient to create http Server 
+javascript Programming language for both server and client  
